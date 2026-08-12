@@ -1,5 +1,5 @@
 # the practice continues
-this is readme file
+This is readme file
 
 the best ways are:
 
