@@ -1,5 +1,4 @@
 code.sql
-passwords.txt
 *.log
 !info.log
 confidential/
